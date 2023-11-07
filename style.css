@@ -1,0 +1,16 @@
+.container{
+  display:flex;
+  justify-content:space-between;
+  align-items:flex-end;
+}
+
+.quadrado{
+  background-color:red;
+  color:white;
+  width:700px;
+  height:200px;
+  text-align:center;
+  border:20px solid white;
+  line-height:150px;
+  
+}
